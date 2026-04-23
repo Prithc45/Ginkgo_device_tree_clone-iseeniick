@@ -114,7 +114,8 @@ source build/envsetup.sh
 ```bash
 axion <device_codename> [user|userdebug|eng] [gms [core] | vanilla]
 ```
-
+Example 
+axion ginkgo userdebug gms core
 ---
 
 # 🔥 Step 6 — Build the ROM
