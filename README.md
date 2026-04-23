@@ -65,11 +65,11 @@ repo sync -c -j8
 Place your `clone_repos.sh` script in the **root of source**:
 
 ```
-AxionOSGinkgo/
+Sourcefiles/
+├── android/
+├── art/
 ├── build/
-├── device/
-├── vendor/
-├── kernel/
+├── bootable/
 ├── clone_repos.sh  ← here
 ```
 
