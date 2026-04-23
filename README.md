@@ -1,4 +1,4 @@
-# 📱 AxionOS ROM Build Guide (Beginner Friendly)
+7# 📱 AxionOS ROM Build Guide (Beginner Friendly)
 
 This guide will walk you through **everything from cloning the source → adding device trees → building your ROM** using `ax -b`.
 
@@ -113,9 +113,11 @@ source build/envsetup.sh
 
 ```bash
 axion <device_codename> [user|userdebug|eng] [gms [core] | vanilla]
-```
-Example 
+
+Example:
 axion ginkgo userdebug gms core
+```
+
 ---
 
 # 🔥 Step 6 — Build the ROM
